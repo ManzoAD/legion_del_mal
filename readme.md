@@ -14,3 +14,5 @@ el objetivo.
 ## Miembros
 1. **Lex Luthor** - Fundador y estratega principal. Experto
 en manipulacion y control de recursos.
+2. **Joker** - Maestro del caos y la anarquia. Su creatividad no tiene 
+limites.
