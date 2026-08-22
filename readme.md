@@ -16,3 +16,7 @@ el objetivo.
 en manipulacion y control de recursos.
 2. **Joker** - Maestro del caos y la anarquia. Su creatividad no tiene 
 limites.
+3. **Thanos** - Portador del Guantelete del infinito. Su vision de
+equilibrio es implacable.
+4. **Magneto** - Lider de los mutantes. Su control sobre el magnetismo
+es inigualable.
