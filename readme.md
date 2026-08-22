@@ -10,3 +10,7 @@ heroes se dividen entre Metropolis, Gotham y Nueva York,
 nosotros hemos hecho lo que ellos jamas lograron: unirnos.
 DC, Marvel, no importa el universo - aqui solo importa
 el objetivo.
+
+## Miembros
+1. **Lex Luthor** - Fundador y estratega principal. Experto
+en manipulacion y control de recursos.
