@@ -72,3 +72,12 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 - _"Yo me encargo de Batman. Siempre me encargo de Batman."_ — Joker
 - _"Si Joker arruina otra misión, propongo que lo lancemos al volcán."_ — Magneto
 - _"Denegado. Por ahora."_ — Lex Luthor
+
+## Conclusion
+
+Es perfectamente claro que esta operacion requiere
+coordinacion extrema y precision. Cada miembro del
+equipo debe cumplir su rol sin desviarse del plan.
+La seguridad del Banco Mundial es formidable, pero 
+con la combinacion de habilidades de la legion, el 
+exito es alcanzable.
