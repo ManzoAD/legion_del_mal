@@ -3,7 +3,7 @@
 ![Release](https://img.shields.io/github/v/release/ManzoAD/legion_del_mal)
 ![Issues](https://img.shields.io/github/issues/ManzoAD/legion_del_mal)
 ![Último commit](https://img.shields.io/github/last-commit/ManzoAD/legion_del_mal)
-![Licencia](https://img.shields.io/github/license/ManzoAD/legion_del_mal)
+![Licencia](https://img.shields.io/github/license/ManzoAD/legion_del_mal?cacheSeconds=60)
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
