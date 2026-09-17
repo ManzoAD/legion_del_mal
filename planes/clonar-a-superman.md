@@ -84,3 +84,4 @@ Mystique es la mayor experta de la Legión en suplantación de identidad. Aunque
 - _"Necesito 6 meses para la clonación. La genética kryptoniana no es como la terrestre."_ — Brainiac
 - _"¿Y si en vez de clonar a Superman clonamos a Hulk? Más divertido."_ — Joker
 - _"No."_ — Todos
+-_"Hacer pruebas de comportamiento con el clon antes de la sustitución es crítico. No podemos permitir errores."_ — Loki
