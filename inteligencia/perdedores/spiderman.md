@@ -16,3 +16,13 @@ Mientras Peter Parker se balancea por la ciudad de Nueva York, enfrentando a vil
 - Spiderman I (2002)
 - Spiderman II (2004)
 - Spiderman III (2007)
+
+## Conocidos y aliados
+- Mary Jane Watson
+- Gwen Stacy
+- Aunt May
+- Harry Osborn
+- J. Jonah Jameson
+- Ned Leeds
+- Flash Thompson
+- Miles Morales
