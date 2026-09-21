@@ -2,7 +2,7 @@
 name: Bug software
 about: Help us to grown
 title: 'Bug:'
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de software
 assignees: ManzoAD
 
 ---
