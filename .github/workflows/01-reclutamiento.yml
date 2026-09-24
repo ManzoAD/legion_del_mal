@@ -21,3 +21,25 @@ jobs:
           echo "Evento: ${{ github.event_name }}"
           echo "SHA del commit: ${{ github.sha }}"
           echo "Metadata ${{toJSON(github)}}"
+      
+      - name: Capacidades del agente
+        run: |
+          echo "Evaluando capacidades del agente..."
+          echo "Sistema operativo"
+          uname -a
+          echo "Versión de Git"
+          git --version
+          echo "Versión de Python"
+          python3 --version
+          echo "Versión de Node.js"
+          node --version
+      
+      - name: Reconocimiento del terreno
+        run: |
+          echo "Analizando el entorno de trabajo..."
+          echo "Directorio actual"
+          pwd
+          echo "Archivos en el directorio"
+          ls -la
+          echo "Variables de entorno"
+          env
