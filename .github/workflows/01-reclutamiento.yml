@@ -1,0 +1,13 @@
+name: Reclutamiento de Agente
+
+on:  push
+
+jobs:
+  reporte-de-reclutamiento:
+    runs-on: ubuntu-latest
+    steps:
+      - name: El agente se presenta
+        run: |
+          echo "¡Hola! Soy el Agente de Reclutamiento de la Legión del Mal."
+          echo "Estoy aquí para evaluar tu perfil y determinar si eres apto para unirte a nuestra causa."
+          echo "Por favor, asegúrate de que tu perfil esté completo y actualizado antes de continuar."
