@@ -11,3 +11,13 @@ jobs:
           echo "¡Hola! Soy el Agente de Reclutamiento de la Legión del Mal."
           echo "Estoy aquí para evaluar tu perfil y determinar si eres apto para unirte a nuestra causa."
           echo "Por favor, asegúrate de que tu perfil esté completo y actualizado antes de continuar."
+      
+      - name: Reporte de identidad
+        run: |
+          echo "Nombre clave ${{ github.actor }}"
+          echo ""
+          echo "Contexto de GitHub"
+          echo "Repositorio: ${{ github.repository }}"
+          echo "Evento: ${{ github.event_name }}"
+          echo "SHA del commit: ${{ github.sha }}"
+          echo "Metadata ${{toJSON(github)}}"
