@@ -25,6 +25,17 @@ on:
           - Media
           - Alta
           - Critica
+      cow-character:
+        description: 'Selecciona el caracter'
+        required: true
+        type: choice
+        options:
+          - eyes
+          - bong
+          - bud-frogs
+          - bunny
+          - cheese
+
       mensaje:
         description: 'Mensaje para el consejo'
         required: true
@@ -37,11 +48,23 @@ on:
 jobs:
   transmitir-mensaje:
     runs-on: ubuntu-latest
-
+    
     steps:
+      - name: Instalar el transmisor de la legion
+        run: sudo apt-get install -y cowsay
+
       - name: Imprimir inputs
         run: |
-          echo "Villano: ${{ inputs.villano }}"
-          echo "Prioridad: ${{ inputs.prioridad }}"
-          echo "Mensaje: ${{ inputs.mensaje }}"
+          echo "================================"
+          echo "      Transmision interceptada "
+          echo "================================"
+          echo ""
+          echo "De: ${{ inputs.villano }}"
+          echo ""
+          echo "Fecha: $(date -u +%d-%m-%Y - %H:%M:%S UTC)"
+          echo "------- Mensaje------"
+          cowsay -f ${{ inputs.cow-character }} "${{ inputs.mensaje }}"
+          echo ""
+          echo "---- ${{ inputs.villano }} "
+          echo "..."
 
