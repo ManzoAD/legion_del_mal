@@ -16,3 +16,10 @@ en las areas identificadas.
 4. **Monitoreo del proceso**: Supervisa el estado de la ciudad durante
 el proceso de congelacion para asegurarte de que todo funcione 
 correctamente y no haya fallos en el sistema.
+
+## Plan de escape
+
+1. **Evacuacion de emergencia**: Asegurate de tener rutas de evacuacion
+2. **Piloto automatico** En caso de presencia de heroes, dejar el dispositivo en piloto automatico
+3. **Desactivacion remota**: Tener un sistema de desactivacion remota en caso de que el dispositivo sea comprometido
+4. **Negacion de responsabilidad**: En caso de ser atrapado, negar cualquier responsabilidad y culpar a terceros.

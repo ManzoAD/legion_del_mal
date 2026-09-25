@@ -23,3 +23,8 @@ poblacion mundial.
  sembrar el miedo y la desconfianza entre las 
  naciones, debulitando la cooperacion
  internacional.
+
+ ## Plan de escape
+ 1. **Naves de escape a otro planeta** En caso de exito huir a otro planeta
+ 2. **Presencia de heroes** Destruir el lugar y la huarida.
+ 3. **Fallo en el plan** Negar responsabilidad en los echos, quemar documentacion.
