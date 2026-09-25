@@ -35,6 +35,17 @@ on:
           - bud-frogs
           - bunny
           - cheese
+          - cower
+          - dragon
+          - elephant
+          - ghostbusters
+          - kitty
+          - mech-and-cow
+          - milk
+          - moose
+          - ren
+          - sheep
+          - skeleton
 
       mensaje:
         description: 'Mensaje para el consejo'
