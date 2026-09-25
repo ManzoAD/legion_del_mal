@@ -1,0 +1,19 @@
+name: Control de Calidad
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  revision-de-calidad:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Brainiac accede a los planes
+        uses: actions/checkout@v3
+
+      - name: El consejo revisa los planos
+        run: |
+          echo "Running quality control checks..."
+          chmod +x ./scripts/quality_check.sh
+          ./scripts/quality_check.sh
